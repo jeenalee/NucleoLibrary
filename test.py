@@ -1,4 +1,5 @@
 import unittest, sys
+sys.path.append('/Users/Jeena/src')
 from NucleoLibrary import dna
 
 class DNAtest(unittest.TestCase):
